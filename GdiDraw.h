@@ -24,6 +24,7 @@ public:
 public:
 	void DrawLineTest(CDC* pDC);
 	void DrawArc(CDC* pDC);
+	void DrawCircle(CDC* pDC);
 
 protected:
 	virtual void DoDataExchange(CDataExchange* pDX);    // DDX/DDV Ö§³Ö
